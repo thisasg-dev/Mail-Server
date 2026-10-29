@@ -4,41 +4,41 @@ A step by step Linux system administration project demonstrating the installatio
 
 🎯 Project Objectives
 
-📩 Configure email transfer using Postfix (SMTP).
+-Configure email transfer using Postfix (SMTP).
 
-📬 Enable mailbox access services using Dovecot.
+-Enable mailbox access services using Dovecot.
 
-⚙️ Configure and manage Linux mail server services.
+-Configure and manage Linux mail server services.
 
-🔥 Configure firewall rules for mail-related ports.
+-Configure firewall rules for mail-related ports.
 
-🧪 Test local email delivery using Linux terminal commands.
+-Test local email delivery using Linux terminal commands.
 
-📊 Monitor mail server activity and troubleshoot errors.
+-Monitor mail server activity and troubleshoot errors.
 
-🔐 Understand essential mail server security considerations.
+-Understand essential mail server security considerations.
 
 🛠️ Technologies Used
 
-🐧 CentOS 7 - Server operating system
+ CentOS 7 - Server operating system
 
-✉️ Postfix - SMTP mail transfer service
+ Postfix - SMTP mail transfer service
 
-📬 Dovecot - IMAP/POP3 mailbox access services
+ Dovecot - IMAP/POP3 mailbox access services
 
-🔥 firewalld - Firewall configuration
+ firewalld - Firewall configuration
 
-🛡️ SELinux - Security policy enforcement
+ SELinux - Security policy enforcement
 
-🖥️ Linux Terminal - Server administration
+ Linux Terminal - Server administration
 
-📋 systemctl - Service management
+ systemctl - Service management
 
-📈 tail - Real-time log monitoring
+ tail - Real-time log monitoring
 
-📝 vi - Configuration file editing
+ vi - Configuration file editing
 
-📦 yum - Package management
+ yum - Package management
 
 🏗️ System Architecture
 
